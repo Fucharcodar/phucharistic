@@ -1,3 +1,0 @@
-# phucharistic
-pharst repositry
-Hello :)!!
